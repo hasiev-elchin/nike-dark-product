@@ -1,3 +1,8 @@
+@font-face {
+	font-family: 'Museo Sans';
+	src: url("../fonts/museo-sans.otf");
+}
+
 html, 
 body {
 	height: 100%;
@@ -7,7 +12,7 @@ body {
 	margin: 0;
 	padding: 0;
 
-	font-family: sans-serif;
+	font-family: "Museo Sans", sans-serif;
 	color: #e1e1e1;
 
 	background-image: url("../img/background.png");
